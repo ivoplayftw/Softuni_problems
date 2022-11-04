@@ -1,9 +1,10 @@
 class Movie:
+    __watched_movies = 0
+    
     def __init__(self, name: str, director: str, watched = False,):
         self.name = name
         self.director = director
         self.watched = watched
-        self.__watched_movies = 0
         
     def change_name(self, name: str):
         self.name = name
@@ -13,10 +14,10 @@ class Movie:
         
     def watch(self):
         if self.watched == False:
-            self.__watched_movies += 1
+            Movie.__watched_movies += 1
             self.watched = True
     def __repr__(self):
-        return f"Movie name: {self.name}; Movie director: {self.director}. Total watched movies: {self.__watched_movies}"
+        return f"Movie name: {self.name}; Movie director: {self.director}. Total watched movies: {Movie.__watched_movies}"
 
 
 first_movie = Movie("Inception", "Christopher Nolan")
