@@ -5,31 +5,37 @@ item_found = False
 while True:
     if item_found:
         break
-    gather = input().lower().split()
-
-    gather_item = [ele for ele in gather if ele.isalpha()]
-    gather_num = [int(ele) for ele in gather if ele.isdigit()]
-
-    for item in range(len(gather_item)):
-        if gather_item[item] in key_materials.keys():
-            key_materials[gather_item[item]] += gather_num[item]
-            if gather_item[item] == 'fragments' and key_materials[gather_item[item]] >= 250:
+    resources = input().lower().split()
+    quantity = []
+    type_of_resource = []
+    for ele in resources:
+        if ele.isdigit():
+            quantity.append(int(ele))
+        else:
+            type_of_resource.append(ele)
+    for item, num in resources, quantity:
+        if item in key_materials.keys():
+            key_materials[item] += quantity[num]
+            if item == 'fragments' and key_materials[item] >= 250:
                 print("Valanyr obtained!")
-                key_materials[gather_item[item]] -= 250
+                key_materials[item] -= 250
                 item_found = True
                 break
-            if gather_item[item] == 'motes' and key_materials[gather_item[item]] >= 250:
+            if item == 'motes' and key_materials[item] >= 250:
                 print("Dragonwrath obtained!")
-                key_materials[gather_item[item]] -= 250
+                key_materials[item] -= 250
                 item_found = True
                 break
-            if gather_item[item] == 'shards' and key_materials[gather_item[item]] >= 250:
+            if item == 'shards' and key_materials[item] >= 250:
                 print("Shadowmourne obtained!")
-                key_materials[gather_item[item]] -= 250
+                key_materials[item] -= 250
                 item_found = True
                 break
         else:
-            junk[gather_item[item]] = gather_num[item]
+            if item in junk:
+                junk[item] += num
+            else:
+                junk[item] = num
 
 for key, value in key_materials.items():
     print(f"{key}: {value}")
