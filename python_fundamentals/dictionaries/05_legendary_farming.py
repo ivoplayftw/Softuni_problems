@@ -13,29 +13,30 @@ while True:
             quantity.append(int(ele))
         else:
             type_of_resource.append(ele)
-    for item, num in resources, quantity:
-        if item in key_materials.keys():
-            key_materials[item] += quantity[num]
-            if item == 'fragments' and key_materials[item] >= 250:
+
+    for item in range(len(type_of_resource)):
+        if type_of_resource[item] in key_materials.keys():
+            key_materials[type_of_resource[item]] += quantity[item]
+            if type_of_resource[item] == 'fragments' and key_materials[type_of_resource[item]] >= 250:
                 print("Valanyr obtained!")
-                key_materials[item] -= 250
+                key_materials[type_of_resource[item]] -= 250
                 item_found = True
                 break
-            if item == 'motes' and key_materials[item] >= 250:
+            if type_of_resource[item] == 'motes' and key_materials[type_of_resource[item]] >= 250:
                 print("Dragonwrath obtained!")
-                key_materials[item] -= 250
+                key_materials[type_of_resource[item]] -= 250
                 item_found = True
                 break
-            if item == 'shards' and key_materials[item] >= 250:
+            if type_of_resource[item] == 'shards' and key_materials[type_of_resource[item]] >= 250:
                 print("Shadowmourne obtained!")
-                key_materials[item] -= 250
+                key_materials[type_of_resource[item]] -= 250
                 item_found = True
                 break
         else:
-            if item in junk:
-                junk[item] += num
+            if type_of_resource[item] in junk:
+                junk[type_of_resource[item]] += quantity[item]
             else:
-                junk[item] = num
+                junk[type_of_resource[item]] = quantity[item]
 
 for key, value in key_materials.items():
     print(f"{key}: {value}")
