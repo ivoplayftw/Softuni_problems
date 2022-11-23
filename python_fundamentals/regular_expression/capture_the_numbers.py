@@ -1,4 +1,5 @@
 import re
+
 pattern = '\d+'
 line = input()
 while line:

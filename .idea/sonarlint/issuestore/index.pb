@@ -13,3 +13,5 @@ h
 8python_fundamentals/dictionaries/05_legendary_farming.py,e\c\ec551b6a6a332a548c042c99fff9b5a29a8c5d1c
 ^
 .python_fundamentals/exams/softuni_reception.py,e\e\eeff926df8bcf8cdf41d9174b00ce3874fb00177
+g
+7python_fundamentals/text_processing/string_explosion.py,f\f\ffdd7a14b0c603649663ebd83debffabcf5eeae8
