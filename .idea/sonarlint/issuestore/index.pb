@@ -19,3 +19,11 @@ m
 =python_fundamentals/regular_expression/capture_the_numbers.py,f\3\f32ef8f2107dd8ca37cee0c0a07c8c4e42017329
 k
 ;python_fundamentals/regular_expression/extract_the_links.py,f\2\f26cf884ea1acdfbdb55b6592900b796c116710d
+z
+Jpython_fundamentals/regular_expression/find_variable_names_in_sentences.py,6\4\6412257b0c83ff9910052275d5675980d84e4991
+|
+Lpython_fundamentals/regular_expression/find_ourrences_of_word_in_sentence.py,2\f\2f08f7778329f5b554c2f63e7c94abb03d85d4b3
+h
+8python_fundamentals/regular_expression/extract_emails.py,8\0\80bfd673e2cea1d10d375d87aa0c9c2427b73c65
+c
+3python_fundamentals/regular_expression/furniture.py,0\1\010a4712a24b957305b2becb615b85919678a20c
