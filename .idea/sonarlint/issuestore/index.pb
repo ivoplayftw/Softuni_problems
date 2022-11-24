@@ -15,3 +15,7 @@ h
 .python_fundamentals/exams/softuni_reception.py,e\e\eeff926df8bcf8cdf41d9174b00ce3874fb00177
 g
 7python_fundamentals/text_processing/string_explosion.py,f\f\ffdd7a14b0c603649663ebd83debffabcf5eeae8
+m
+=python_fundamentals/regular_expression/capture_the_numbers.py,f\3\f32ef8f2107dd8ca37cee0c0a07c8c4e42017329
+k
+;python_fundamentals/regular_expression/extract_the_links.py,f\2\f26cf884ea1acdfbdb55b6592900b796c116710d
