@@ -27,3 +27,7 @@ h
 8python_fundamentals/regular_expression/extract_emails.py,8\0\80bfd673e2cea1d10d375d87aa0c9c2427b73c65
 c
 3python_fundamentals/regular_expression/furniture.py,0\1\010a4712a24b957305b2becb615b85919678a20c
+d
+4python_fundamentals/final_exam/destination_mapper.py,6\5\65f3c52640931e7219056b37db302091ddd94a7a
+\
+,python_fundamentals/final_exam/world_tour.py,a\d\adba83360bc2f3a667378fb94b318e219471cf5c
