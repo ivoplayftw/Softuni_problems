@@ -43,3 +43,7 @@ c
 -python_fundamentals/dictionaries/06_orders.py,1\a\1a2d4b4e855c9dcb2b5e61f5d93bcaf5d5880bdf
 \
 ,python_fundamentals/final_exam/world_tour.py,a\d\adba83360bc2f3a667378fb94b318e219471cf5c
+u
+Epython_advanced_and_oop/Lists as Stacks and Queues/stacked_queries.py,0\5\054530a2ed71ad88e2597c99ba5419d400c965e0
+u
+Epython_advanced_and_oop/Lists as Stacks and Queues/reverse_nubmers.py,3\4\34f92f021b25d4ee86b37c6d21ebcaeaacdfa1a6
