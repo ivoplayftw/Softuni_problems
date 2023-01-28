@@ -47,3 +47,11 @@ u
 Epython_advanced_and_oop/Lists as Stacks and Queues/stacked_queries.py,0\5\054530a2ed71ad88e2597c99ba5419d400c965e0
 u
 Epython_advanced_and_oop/Lists as Stacks and Queues/reverse_nubmers.py,3\4\34f92f021b25d4ee86b37c6d21ebcaeaacdfa1a6
+v
+Fpython_advanced_and_oop/Lists as Stacks and Queues/fashion_boutique.py,9\3\931f1249606bd07502e416b09e8677cf182c9735
+o
+?python_advanced_and_oop/Lists as Stacks and Queues/fast_food.py,8\d\8dc0456f64e64cd411cf7fd00f9c62a8a057ae00
+p
+@python_advanced_and_oop/Lists as Stacks and Queues/truck_tour.py,4\a\4a3db2f1d81e824e0513c62840d5b290fb5a42a3
+z
+Jpython_advanced_and_oop/Lists as Stacks and Queues/balanced_parenthesis.py,c\9\c9c34b7ef9e627e255b2ce9187d268017b2a238f
