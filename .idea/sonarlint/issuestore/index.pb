@@ -55,3 +55,15 @@ p
 @python_advanced_and_oop/Lists as Stacks and Queues/truck_tour.py,4\a\4a3db2f1d81e824e0513c62840d5b290fb5a42a3
 z
 Jpython_advanced_and_oop/Lists as Stacks and Queues/balanced_parenthesis.py,c\9\c9c34b7ef9e627e255b2ce9187d268017b2a238f
+j
+:python_advanced_and_oop/Tuples and Sets/set_of_elements.py,0\6\06ce20b15b8155278f925db2c1ec8d26b492518f
+k
+;python_advanced_and_oop/Tuples and Sets/unique_usernames.py,0\8\086ed68ec7ef59bee9773b8008b7e8d2bc7915c5
+i
+9python_advanced_and_oop/Tuples and Sets/periodic_table.py,0\5\0574aee50434579276a065d95c3ed6ea7ecbb236
+o
+?python_advanced_and_oop/Tuples and Sets/longest_intersection.py,5\4\544fad06ef906278cb6c403cb7b4445673d19f4a
+h
+8python_advanced_and_oop/Tuples and Sets/count_symbols.py,5\5\550e57238b909b2169f8f7b7147d621e8d7b625c
+g
+7python_advanced_and_oop/Tuples and Sets/battle_names.py,d\e\de81f551333a10ad4ff2886c94a9a52fea2bbeb9
