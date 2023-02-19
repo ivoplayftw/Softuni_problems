@@ -67,3 +67,37 @@ h
 8python_advanced_and_oop/Tuples and Sets/count_symbols.py,5\5\550e57238b909b2169f8f7b7147d621e8d7b625c
 g
 7python_advanced_and_oop/Tuples and Sets/battle_names.py,d\e\de81f551333a10ad4ff2886c94a9a52fea2bbeb9
+u
+Epython_advanced_and_oop/Multidimention Lists/2x2 squares in matrix.py,2\c\2cd1c458c29d29a467bfb3f740a53e94365c6416
+t
+Dpython_advanced_and_oop/Stacks, Queues, Tuples and Sets/numbers_2.py,0\f\0ff818edb9e1edcaf2fd558e12499dd4898fff61
+p
+@python_advanced_and_oop/Stacks, Queues, Tuples and Sets/honey.py,3\3\33a530635d5f89e9a4540acf3ae2c579751c2243
+v
+Fpython_advanced_and_oop/Stacks, Queues, Tuples and Sets/Paint Color.py,d\1\d1df9c32718de8c28b6f1e97854d35ab101ed1b7
+k
+;python_advanced_and_oop/Multidimention Lists/maximal_sum.py,6\b\6b9df0895ebedd223a7eb3894a7c6320066d3188
+t
+Dpython_advanced_and_oop/Functions Advanced/positives_vs_negatives.py,e\9\e9cfe6878764879ed521b1c86db65ece174b3b1e
+u
+Epython_advanced_and_oop/Multidimention Lists/matrix_of_palindromes.py,e\7\e7a80f294924709a7fd280d0ab7c06d976ad4242
+u
+Epython_advanced_and_oop/Stacks, Queues, Tuples and Sets/milkshakes.py,b\c\bc20b6b66cac627a1c03a6dac73343778d90f383
+
+Opython_advanced_and_oop/Stacks, Queues, Tuples and Sets/expression_evaluator.py,0\f\0f008458cdcb7a0b203bb87dc81a6946604bf123
+s
+Cpython_advanced_and_oop/Functions Advanced/kwarg_argument_lenght.py,7\3\73a1f1b610e9ff115c1be7803e617aadd5d70e1b
+i
+9python_advanced_and_oop/Functions Advanced/even_or_odd.py,e\0\e0c7da2c0953f2ce3e27f7fc545e77892f394c54
+l
+<python_advanced_and_oop/Functions Advanced/numbers_filter.py,b\a\baf12f8f3432f07f2cad2f96b634e0726784af61
+l
+<python_advanced_and_oop/Error Handling/email_verification.py,f\6\f6f5b856b9827643313adb2da38652aa1a7d73d4
+l
+<python_advanced_and_oop/Error Handling/numbers_dictionary.py,3\1\311ba833d6a7c259148b1ab1ed7113e705f31757
+i
+9python_advanced_and_oop/Multidimention Lists/diagonals.py,4\a\4a368cf401815cfb4062d7bf5f96cb44b3ad2041
+s
+Cpython_advanced_and_oop/Multidimention Lists/diagonal difference.py,e\7\e719892888e68a0461fa3f1a4d5527bbde0650a1
+`
+0python_advanced_and_oop/exams_adv/navy_battle.py,8\6\86825fd73fe688a57adcc2dbfd6414db45b5d1d4
