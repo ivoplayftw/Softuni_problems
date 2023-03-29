@@ -101,3 +101,11 @@ s
 Cpython_advanced_and_oop/Multidimention Lists/diagonal difference.py,e\7\e719892888e68a0461fa3f1a4d5527bbde0650a1
 `
 0python_advanced_and_oop/exams_adv/navy_battle.py,8\6\86825fd73fe688a57adcc2dbfd6414db45b5d1d4
+e
+5python_advanced_and_oop/exams_adv/blind_man's_buff.py,b\2\b2f09f664bd4ee70622bd1eaa8e37885f9819deb
+a
+1python_advanced_and_oop/exams_adv/grocery_list.py,c\0\c00c57ea7f64e43ed9ffa71d150849f578540591
+X
+(python_advanced_and_oop/exams_adv/asd.py,1\8\186c2998af8837dcad76fb21d7016b39a413c97c
+k
+;python_advanced_and_oop/exams_adv/apocalypse_preparation.py,4\1\41d224be2cee039b08ffd7dc099f16f94cb04669
