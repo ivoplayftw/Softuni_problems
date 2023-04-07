@@ -24,4 +24,3 @@ class PhotoAlbum:
             result.append(("[] " * len(page)).rstrip())
             result.append('-' * 11)
         return '\n'.join(result)
-
